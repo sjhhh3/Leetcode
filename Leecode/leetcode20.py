@@ -1,4 +1,4 @@
-s = '()'
+
 # cur = 0
 # for c in s:
 #     cur = ord(c)
@@ -22,7 +22,7 @@ print(Solution(s))
 # a = ['(',')']
 # b = ['[',']']
 # c = ['{','}']
-SYMBOLS = {'}':'{', ']':'[', ')':'('}
+SYMBOLS = {'}':'{', ']':'[', ')':'(', '*':'*'}
 SYMBOLS_L, SYMBOLS_R = SYMBOLS.values(), SYMBOLS.keys()
 
 def check(s):
@@ -33,11 +33,13 @@ def check(s):
             arr.append(c)
         elif c in SYMBOLS_R:
             # 右符号要么出栈，要么匹配失败
+            print(SYMBOLS[c])
             if arr and arr[-1] == SYMBOLS[c]:
                 arr.pop()
             else:
                 return False
 
-    return not arr
+    return arr
 
+s = '()*'
 print(check(s))

@@ -45,8 +45,8 @@ def listNodeToString(node):
     return result[:-2]
 
 def main():
-    line1 = [23,44]
-    line2 = [2,6]
+    line1 = [2,3,4]
+    line2 = [4,5,6]
     l1 = stringToListNode(line1)
     l2 = stringToListNode(line2)
     ret = Solution().mergeTwoLists(l1, l2)
