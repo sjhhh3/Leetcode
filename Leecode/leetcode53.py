@@ -1,17 +1,15 @@
-a = []
+a = [-2,1,-3,4,-1,2,1,-5,4]
 
 
 def maxSubArray(nums):
     if not nums:
-        return None
-    max = -(2**32)
-    for i in range(0,len(nums)):
-        sum = 0
-        for n in range(i, len(nums)):
-            sum += nums[n]
-            if max < sum:
-                max = sum
-    return max
+        return 0
+    if len(nums) == 1:
+        return nums[0]
+    sumlist = [nums[0]]
+    for i in range(1, len(nums)):
+        sumlist.append(max(nums[i], sumlist[i - 1] + nums[i]))
+    return max(sumlist)
 
 print(maxSubArray(a))
 
