@@ -6,10 +6,19 @@ class TreeNode:
         self.right = None
 
 class Solution:
-    def isSameTree(self, p, q):
-        if p and q:
-            return p.val == q.val and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
-        return p is q
+    def isSymmetric(self, root):
+        def isSym(L, R):
+            if L and R and L.val == R.val:
+                return isSym(L.left, R.right) and isSym(L.right, R.left)
+            return L == R
+        if root and root.left and root.right and root.left.val == root.right.val:
+            return isSym(root.left,root.right)
+        elif root and not(root.left or root.right):
+            return True
+        elif not root:
+            return True
+        else:
+            return False
 
 
 def stringToTreeNode(input):
@@ -46,12 +55,9 @@ def stringToTreeNode(input):
 
 
 def main():
-    pline = [4,5,6,7,8]
-    qline = [4,5,6,7,8]
+    pline = []
     p = stringToTreeNode(pline)
-    q = stringToTreeNode(qline)
-    ret = Solution().isSameTree(p, q)
-
+    ret = Solution().isSymmetric(p)
     out = (ret)
     print(out)
 

@@ -6,10 +6,16 @@ class TreeNode:
         self.right = None
 
 class Solution:
-    def isSameTree(self, p, q):
-        if p and q:
-            return p.val == q.val and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
-        return p is q
+    def maxDepth(self, root):
+        # if p and q:
+        #     return p.val == q.val and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+        # return p is q
+        maxvalue = 0
+        counter = 0
+        if root and root.left and root.right:
+            counter += 1
+            
+
 
 
 def stringToTreeNode(input):
@@ -47,10 +53,8 @@ def stringToTreeNode(input):
 
 def main():
     pline = [4,5,6,7,8]
-    qline = [4,5,6,7,8]
     p = stringToTreeNode(pline)
-    q = stringToTreeNode(qline)
-    ret = Solution().isSameTree(p, q)
+    ret = Solution().maxDepth(p)
 
     out = (ret)
     print(out)
