@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1b35e27-55b0-4291-9c3c-daf90ed10ed5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leecode/leetcode21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leecode/leetcode21.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,98 +13,108 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Leetcode$leetcode804.coverage" NAME="leetcode804 Coverage Results" MODIFIED="1527126199130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode136.coverage" NAME="leetcode136 Coverage Results" MODIFIED="1531943067776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode485.coverage" NAME="leetcode485 Coverage Results" MODIFIED="1532038296519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode476.coverage" NAME="leetcode476 Coverage Results" MODIFIED="1531613898110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode709.coverage" NAME="leetcode709 Coverage Results" MODIFIED="1531611597439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode657_3.coverage" NAME="leetcode657-3 Coverage Results" MODIFIED="1527210344127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode557.coverage" NAME="leetcode557 Coverage Results" MODIFIED="1531614458202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode784.coverage" NAME="leetcode784 Coverage Results" MODIFIED="1532476341053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode496.coverage" NAME="leetcode496 Coverage Results" MODIFIED="1531940777454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode566.coverage" NAME="leetcode566 Coverage Results" MODIFIED="1531938081199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode821.coverage" NAME="leetcode821 Coverage Results" MODIFIED="1531615235027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode824.coverage" NAME="leetcode824 Coverage Results" MODIFIED="1532037342484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode412.coverage" NAME="leetcode412 Coverage Results" MODIFIED="1531936258044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode806.coverage" NAME="leetcode806 Coverage Results" MODIFIED="1527635868208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode561.coverage" NAME="leetcode561 Coverage Results" MODIFIED="1527634154228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode463.coverage" NAME="leetcode463 Coverage Results" MODIFIED="1531771731446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode852.coverage" NAME="leetcode852 Coverage Results" MODIFIED="1531611857773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode500.coverage" NAME="leetcode500 Coverage Results" MODIFIED="1531616807679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode811.coverage" NAME="leetcode811 Coverage Results" MODIFIED="1527878727269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$leetcode476.coverage" NAME="leetcode476 Coverage Results" MODIFIED="1531613898110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode821_2.coverage" NAME="leetcode821-2 Coverage Results" MODIFIED="1531765266410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
-    <SUITE FILE_PATH="coverage/Leetcode$leetcode709.coverage" NAME="leetcode709 Coverage Results" MODIFIED="1531611597439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode771.coverage" NAME="leetcode771 Coverage Results" MODIFIED="1527124513668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
-    <SUITE FILE_PATH="coverage/Leetcode$leetcode657_3.coverage" NAME="leetcode657-3 Coverage Results" MODIFIED="1527210344127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode766.coverage" NAME="leetcode766 Coverage Results" MODIFIED="1531868186681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode867.coverage" NAME="leetcode867 Coverage Results" MODIFIED="1531612382617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
-    <SUITE FILE_PATH="coverage/Leetcode$leetcode557.coverage" NAME="leetcode557 Coverage Results" MODIFIED="1531614458202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode575.coverage" NAME="leetcode575 Coverage Results" MODIFIED="1531867694137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode832.coverage" NAME="leetcode832 Coverage Results" MODIFIED="1527204850834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode811__1_.coverage" NAME="leetcode811 (1) Coverage Results" MODIFIED="1527880743490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode461.coverage" NAME="leetcode461 Coverage Results" MODIFIED="1527209784933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$leetcode821.coverage" NAME="leetcode821 Coverage Results" MODIFIED="1531615235027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
+    <SUITE FILE_PATH="coverage/Leetcode$leetcode258.coverage" NAME="leetcode258 Coverage Results" MODIFIED="1532476367945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
     <SUITE FILE_PATH="coverage/Leetcode$leetcode821_3.coverage" NAME="leetcode821-3 Coverage Results" MODIFIED="1531765813874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
-    <SUITE FILE_PATH="coverage/Leetcode$leetcode806.coverage" NAME="leetcode806 Coverage Results" MODIFIED="1527635868208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leecode" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="leetcode811.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode811.py">
+      <file leaf-file-name="leetcode412.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode412.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="253">
+              <caret line="11" selection-start-line="4" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode821.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode821.py">
+      <file leaf-file-name="leetcode566.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode566.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="437">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode496.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode496.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode136.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode136.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="38" />
               <folding>
-                <marker date="1527894151393" expanded="true" signature="0:241" ph="..." />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode821-2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode821-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode821-3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode821-3.py">
+      <file leaf-file-name="leetcode824.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode824.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode463.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode463.py">
+      <file leaf-file-name="leetcode485.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode485.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state relative-caret-position="230">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode500.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode500.py">
+      <file leaf-file-name="leetcode784.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode784.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="138">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode476.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode476.py">
+      <file leaf-file-name="leetcode258.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leecode/leetcode258.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode557.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leecode/leetcode557.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="48" />
+            <state relative-caret-position="230">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -160,6 +167,16 @@
         <option value="$PROJECT_DIR$/Leecode/leetcode821-2.py" />
         <option value="$PROJECT_DIR$/Leecode/leetcode821-3.py" />
         <option value="$PROJECT_DIR$/Leecode/leetcode463.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode575.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode766.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode412.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode566.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode496.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode136.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode824.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode485.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode784.py" />
+        <option value="$PROJECT_DIR$/Leecode/leetcode258.py" />
       </list>
     </option>
   </component>
@@ -173,8 +190,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="-18" />
+    <option name="x" value="85" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -234,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode463">
-    <configuration name="leetcode463" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.leetcode258">
+    <configuration name="leetcode136" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,13 +265,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode463.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode136.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode500" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode258" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,13 +284,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode500.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode258.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode821-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode485" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,13 +303,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode821-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode485.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode821-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode784" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,13 +322,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode821-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode784.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode821" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode824" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,26 +341,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode821.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leecode/leetcode824.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.leetcode821" />
-      <item itemvalue="Python.leetcode500" />
-      <item itemvalue="Python.leetcode821-2" />
-      <item itemvalue="Python.leetcode821-3" />
-      <item itemvalue="Python.leetcode463" />
+      <item itemvalue="Python.leetcode136" />
+      <item itemvalue="Python.leetcode824" />
+      <item itemvalue="Python.leetcode485" />
+      <item itemvalue="Python.leetcode784" />
+      <item itemvalue="Python.leetcode258" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetcode463" />
-        <item itemvalue="Python.leetcode821-3" />
-        <item itemvalue="Python.leetcode821-2" />
-        <item itemvalue="Python.leetcode500" />
-        <item itemvalue="Python.leetcode821" />
+        <item itemvalue="Python.leetcode258" />
+        <item itemvalue="Python.leetcode784" />
+        <item itemvalue="Python.leetcode485" />
+        <item itemvalue="Python.leetcode824" />
+        <item itemvalue="Python.leetcode136" />
       </list>
     </recent_temporary>
   </component>
@@ -388,27 +405,27 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16979167" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22659574" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Data View" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16979167" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3861702" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,80 +493,26 @@
           <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="240" />
+      <option name="time" value="300" />
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>if i % 15 == 0:
+        res.append('FizzBuzz')
+    elif i % 3 == 0:
+        res.append('Fizz')
+    elif i % 5 == 0:
+        res.append('Buzz')
+    else:
+        res.append(str(i))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode38.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode53.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/Leetcode680.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/Leetcode681.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode38.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leecode/leetcode53.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -726,13 +689,6 @@
     <entry file="file://$PROJECT_DIR$/Leecode/leetcode100.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode811.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leecode/leetcode852.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -754,6 +710,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode463.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode821-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode821-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode821.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode811.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode575.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode766.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode500.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Leecode/leetcode476.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -768,41 +780,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode500.py">
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode412.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="4" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode821.py">
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode566.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode496.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode824.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode136.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="38" />
           <folding>
-            <marker date="1527894151393" expanded="true" signature="0:241" ph="..." />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode821-2.py">
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode485.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="230">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode821-3.py">
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode784.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+        <state relative-caret-position="138">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leecode/leetcode463.py">
+    <entry file="file://$PROJECT_DIR$/Leecode/leetcode258.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        <state relative-caret-position="230">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
