@@ -13,9 +13,11 @@ print(reduce(operator.xor, nums))
 
 
 res = 0
-for num in nums:
-    res ^= num
-print(res)
+#
+# for num in nums:
+#     res ^= num
+# print(res)
+
 
 
 dic = {}

@@ -15,3 +15,4 @@ for letter in S:
     ans[1] = sum
 
 print(ans)
+
