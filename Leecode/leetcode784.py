@@ -1,4 +1,4 @@
-S = "12345"
+S = "a1b2c"
 
 # Output: ["a1b2c", "a1B2c", "a1B2C", "a1b2C", "A1b2c", "A1b2C", "A1B2c", "A1B2C"]
 

@@ -1,12 +1,13 @@
-words =  ["yo","ew","fc","zrc","yodn","fcm","qm","qmo","fcmz","z","ewq","yod","ewqz","y"]
+words =  ["a", "banana", "app", "appl", "ap", "apply", "apple"]
+
 
 def longestWord(words):
-    words, resword, res = sorted(words), '', set()
-    for word in words:
-        if len(word) == 1 or word[:-1] in res:
-            res.add(word)
-            resword = word if resword == '' else word if len(word) > len(resword) else resword
-    return resword
+    valid = set([""])
 
+    for word in sorted(words):
+        if word[:-1] in valid:
+            a = word[:-1]
+            valid.add(word)
+    return max(sorted(valid), key=lambda x: len(x))
 
 print(longestWord(words))
